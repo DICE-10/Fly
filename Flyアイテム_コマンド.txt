@@ -1,0 +1,2 @@
+
+/give DICE_10 minecraft:feather{HideFlags:1,Enchantments:[{id:feather_falling,lvl:5}],display:{Name:"\"虹の羽\"",Lore:["\"飛行可能\""]}} 1

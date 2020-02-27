@@ -1,0 +1,8 @@
+name: Fly
+version: ${project.version}
+main: io.github.dice10.fly.Fly
+api-version: 1.13
+authors: [DICE_10]
+commands:
+  fly:
+    description: /fly [exp]
